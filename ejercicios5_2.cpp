@@ -18,7 +18,7 @@ int sumaNumerosFor(int inicio, int fin)
     }
     return suma;
 }
-
+//Esto es otra modificación al codigo
 int main()
 {
     int inicio = 1;
@@ -30,3 +30,5 @@ int main()
     std::cout << "La suma con un FOR, de los numeros del " << inicio << "al " << fin << " es: " << resultadoSuma << std::endl;
     return 0;
 }
+
+//Hola C++ esto es Github
