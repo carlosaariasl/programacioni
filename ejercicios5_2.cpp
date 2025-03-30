@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stdio.h>
+#include<iomanip>
 void imprimirNumeroWhile(int inicio, int fin)
 {
     int i = inicio;
@@ -9,6 +10,8 @@ void imprimirNumeroWhile(int inicio, int fin)
         i++;
     }
 }
+
+
 int sumaNumerosFor(int inicio, int fin)
 {
     int suma = 0;
